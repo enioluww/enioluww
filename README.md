@@ -11,6 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Azure Honeypot Project: (Threat Detection and Visualization with Microsoft Sentinel)](https://github.com/enioluww/AZ-honey-pot-attack-map)**
+
+
 
 <hr/>
 
